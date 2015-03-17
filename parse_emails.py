@@ -36,5 +36,5 @@ def get_emails(filename):
 			
 	return dic
 
-dic = get_emails("virtual")
+#dic = get_emails("virtual")
 #print(dic)
