@@ -16,8 +16,8 @@ Before running the script for the first time (in March 2015), a backup of the ex
 
 ### Authors
 This script was created by:
-* ALLEN GUO <allenguo@berkeley.edu>
-* EDWARD LOOK <edwlook@berkeley.edu>
-* VENKATA SRIKAR REDDY POREDDY <vsporeddy@berkeley.edu>
-* JORDON MCLAUGHLIN WING <jordonwing@berkeley.edu>
-* NATHAN WONG <nathan@berkeley.edu>
+* ALLEN GUO \<allenguo@berkeley.edu>
+* EDWARD LOOK \<edwlook@berkeley.edu>
+* VENKATA SRIKAR REDDY POREDDY \<vsporeddy@berkeley.edu>
+* JORDON MCLAUGHLIN WING \<jordonwing@berkeley.edu>
+* NATHAN WONG \<nathan@berkeley.edu>
